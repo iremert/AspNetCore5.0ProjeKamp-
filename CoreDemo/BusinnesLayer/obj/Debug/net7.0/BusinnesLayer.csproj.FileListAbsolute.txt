@@ -1,0 +1,17 @@
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\BusinnesLayer.deps.json
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\BusinnesLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\BusinnesLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\refint\BusinnesLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\BusinnesLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\AspNetCoreProjeKamp\CoreDemo\BusinnesLayer\obj\Debug\net7.0\ref\BusinnesLayer.dll

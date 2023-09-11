@@ -1,0 +1,1185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CoreDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoreDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\about.html",
+      "PackagePath": "staticwebassets\\web\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\blog1.html",
+      "PackagePath": "staticwebassets\\web\\blog1.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\blog2.html",
+      "PackagePath": "staticwebassets\\web\\blog2.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\blog3.html",
+      "PackagePath": "staticwebassets\\web\\blog3.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\bread.html",
+      "PackagePath": "staticwebassets\\web\\bread.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\checkout.html",
+      "PackagePath": "staticwebassets\\web\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\contact.html",
+      "PackagePath": "staticwebassets\\web\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\contact.css",
+      "PackagePath": "staticwebassets\\web\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\web\\css\\creditly.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\web\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\web\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\single.css",
+      "PackagePath": "staticwebassets\\web\\css\\single.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\drinks.html",
+      "PackagePath": "staticwebassets\\web\\drinks.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\events.html",
+      "PackagePath": "staticwebassets\\web\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\faqs.html",
+      "PackagePath": "staticwebassets\\web\\faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\frozen.html",
+      "PackagePath": "staticwebassets\\web\\frozen.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\household.html",
+      "PackagePath": "staticwebassets\\web\\household.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\1.png",
+      "PackagePath": "staticwebassets\\web\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\10.png",
+      "PackagePath": "staticwebassets\\web\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\11.png",
+      "PackagePath": "staticwebassets\\web\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\12.png",
+      "PackagePath": "staticwebassets\\web\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\13.png",
+      "PackagePath": "staticwebassets\\web\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\14.png",
+      "PackagePath": "staticwebassets\\web\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\15.png",
+      "PackagePath": "staticwebassets\\web\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\16.png",
+      "PackagePath": "staticwebassets\\web\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\17.png",
+      "PackagePath": "staticwebassets\\web\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\18.png",
+      "PackagePath": "staticwebassets\\web\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\19.png",
+      "PackagePath": "staticwebassets\\web\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\2.png",
+      "PackagePath": "staticwebassets\\web\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\20.png",
+      "PackagePath": "staticwebassets\\web\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\21.png",
+      "PackagePath": "staticwebassets\\web\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\22.png",
+      "PackagePath": "staticwebassets\\web\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\23.png",
+      "PackagePath": "staticwebassets\\web\\images\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\24.png",
+      "PackagePath": "staticwebassets\\web\\images\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\25.png",
+      "PackagePath": "staticwebassets\\web\\images\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\26.png",
+      "PackagePath": "staticwebassets\\web\\images\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\27.png",
+      "PackagePath": "staticwebassets\\web\\images\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\28.png",
+      "PackagePath": "staticwebassets\\web\\images\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\29.png",
+      "PackagePath": "staticwebassets\\web\\images\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\3.png",
+      "PackagePath": "staticwebassets\\web\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\30.png",
+      "PackagePath": "staticwebassets\\web\\images\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\31.png",
+      "PackagePath": "staticwebassets\\web\\images\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\32.png",
+      "PackagePath": "staticwebassets\\web\\images\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\33.png",
+      "PackagePath": "staticwebassets\\web\\images\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\34.png",
+      "PackagePath": "staticwebassets\\web\\images\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\35.png",
+      "PackagePath": "staticwebassets\\web\\images\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\36.png",
+      "PackagePath": "staticwebassets\\web\\images\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\37.png",
+      "PackagePath": "staticwebassets\\web\\images\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\38.png",
+      "PackagePath": "staticwebassets\\web\\images\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\39.png",
+      "PackagePath": "staticwebassets\\web\\images\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\4.png",
+      "PackagePath": "staticwebassets\\web\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\40.png",
+      "PackagePath": "staticwebassets\\web\\images\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\41.png",
+      "PackagePath": "staticwebassets\\web\\images\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\42.png",
+      "PackagePath": "staticwebassets\\web\\images\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\43.png",
+      "PackagePath": "staticwebassets\\web\\images\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\44.png",
+      "PackagePath": "staticwebassets\\web\\images\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\45.png",
+      "PackagePath": "staticwebassets\\web\\images\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\46.png",
+      "PackagePath": "staticwebassets\\web\\images\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\47.png",
+      "PackagePath": "staticwebassets\\web\\images\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\48.png",
+      "PackagePath": "staticwebassets\\web\\images\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\49.png",
+      "PackagePath": "staticwebassets\\web\\images\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\5.png",
+      "PackagePath": "staticwebassets\\web\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\50.png",
+      "PackagePath": "staticwebassets\\web\\images\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\51.png",
+      "PackagePath": "staticwebassets\\web\\images\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\52.png",
+      "PackagePath": "staticwebassets\\web\\images\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\53.png",
+      "PackagePath": "staticwebassets\\web\\images\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\54.png",
+      "PackagePath": "staticwebassets\\web\\images\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\55.png",
+      "PackagePath": "staticwebassets\\web\\images\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\56.png",
+      "PackagePath": "staticwebassets\\web\\images\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\57.png",
+      "PackagePath": "staticwebassets\\web\\images\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\58.png",
+      "PackagePath": "staticwebassets\\web\\images\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\59.png",
+      "PackagePath": "staticwebassets\\web\\images\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\6.png",
+      "PackagePath": "staticwebassets\\web\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\60.png",
+      "PackagePath": "staticwebassets\\web\\images\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\61.png",
+      "PackagePath": "staticwebassets\\web\\images\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\62.png",
+      "PackagePath": "staticwebassets\\web\\images\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\63.png",
+      "PackagePath": "staticwebassets\\web\\images\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\64.png",
+      "PackagePath": "staticwebassets\\web\\images\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\65.png",
+      "PackagePath": "staticwebassets\\web\\images\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\66.png",
+      "PackagePath": "staticwebassets\\web\\images\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\67.png",
+      "PackagePath": "staticwebassets\\web\\images\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\68.png",
+      "PackagePath": "staticwebassets\\web\\images\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\69.png",
+      "PackagePath": "staticwebassets\\web\\images\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\7.png",
+      "PackagePath": "staticwebassets\\web\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\70.png",
+      "PackagePath": "staticwebassets\\web\\images\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\71.png",
+      "PackagePath": "staticwebassets\\web\\images\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\72.png",
+      "PackagePath": "staticwebassets\\web\\images\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\73.png",
+      "PackagePath": "staticwebassets\\web\\images\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\74.png",
+      "PackagePath": "staticwebassets\\web\\images\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\75.png",
+      "PackagePath": "staticwebassets\\web\\images\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\76.png",
+      "PackagePath": "staticwebassets\\web\\images\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\8.png",
+      "PackagePath": "staticwebassets\\web\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\9.png",
+      "PackagePath": "staticwebassets\\web\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\web\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\card.png",
+      "PackagePath": "staticwebassets\\web\\images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\cart.png",
+      "PackagePath": "staticwebassets\\web\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\web\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\img-sp.png",
+      "PackagePath": "staticwebassets\\web\\images\\img-sp.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\left.png",
+      "PackagePath": "staticwebassets\\web\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\offer.png",
+      "PackagePath": "staticwebassets\\web\\images\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\web\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\right.png",
+      "PackagePath": "staticwebassets\\web\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\star.png",
+      "PackagePath": "staticwebassets\\web\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\star1.png",
+      "PackagePath": "staticwebassets\\web\\images\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\tag.png",
+      "PackagePath": "staticwebassets\\web\\images\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\web\\images\\top_up.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\web\\js\\creditly.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.wmuSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\web\\js\\minicart.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\okzoom.js",
+      "PackagePath": "staticwebassets\\web\\js\\okzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\kitchen.html",
+      "PackagePath": "staticwebassets\\web\\kitchen.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\login.html",
+      "PackagePath": "staticwebassets\\web\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\mail.html",
+      "PackagePath": "staticwebassets\\web\\mail.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\payment.html",
+      "PackagePath": "staticwebassets\\web\\payment.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\pet.html",
+      "PackagePath": "staticwebassets\\web\\pet.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\privacy.html",
+      "PackagePath": "staticwebassets\\web\\privacy.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\products.html",
+      "PackagePath": "staticwebassets\\web\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\register.html",
+      "PackagePath": "staticwebassets\\web\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\services.html",
+      "PackagePath": "staticwebassets\\web\\services.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\short-codes.html",
+      "PackagePath": "staticwebassets\\web\\short-codes.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\single.html",
+      "PackagePath": "staticwebassets\\web\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\vegetables.html",
+      "PackagePath": "staticwebassets\\web\\vegetables.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\web\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\css\\style.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\weberror\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\index.html",
+      "PackagePath": "staticwebassets\\weberror\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\Future\\AspNetCoreProjeKamp\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\weberror\\w3layouts-license.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CoreDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CoreDemo.props",
+      "PackagePath": "build\\CoreDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreDemo.props",
+      "PackagePath": "buildMultiTargeting\\CoreDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CoreDemo.props",
+      "PackagePath": "buildTransitive\\CoreDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
